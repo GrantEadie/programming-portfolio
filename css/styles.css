@@ -18,3 +18,28 @@ li p {
   font-size: 12px;
   color: rgb(239, 239, 239);
 }
+
+.italic-bold {
+  font-style: italic;
+  font-weight: bolder;
+}
+
+
+
+.photo-align {
+  display: inline-block;
+  position: relative;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+  float: right;
+  bottom: -30px;
+  left: -150px;
+}
+
+.photo-align img {
+  width: auto;
+  height: 100%;
+  margin-left: -22px;
+}
