@@ -41,9 +41,10 @@ li p {
 }
 
 .photo-align img {
-  width: auto;
-  height: 100%;
-  margin-left: -23px;
+  width: 120%;
+  height: auto;
+  margin-left: -10px;
+  margin-top: -47px;
 }
 
 .light-look {
@@ -55,7 +56,8 @@ li p {
 }
 
 .gradient-test1 {
-  background: linear-gradient(270deg, rgba(58,139,180,1) 0%, rgba(29,163,253,0.6881127450980392) 69%);
+  background: rgb(76,89,240);
+  background: linear-gradient(270deg, rgba(76,89,240,1) 0%, rgba(90,120,241,0.7049194677871149) 100%);
 }
 
 .box1 {
@@ -67,10 +69,26 @@ li p {
   box-sizing: border-box;
   background: rgb(238,174,180);
   background: linear-gradient(160deg, rgba(238,174,180,0.9486169467787114) 0%, rgba(172,90,241,0.7441351540616247) 100%);
-  margin-bottom: 300px;
+  margin-bottom: 50px;
+}
+
+.box2 {
+  width: auto;
+  padding: 20px;
+  border: solid rgb(238,174,180);
+  border-width: 1px;
+  box-sizing: border-box;
+  margin-bottom: 50px;
 }
 
 h3 {
   padding: 10px;
   font-size: large;
+}
+
+.grad-bw {
+  background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(174,174,174,0) 100%);
+  background-clip: unset;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
