@@ -28,7 +28,6 @@ li p {
 
 
 .photo-align {
-  display: inline-block;
   position: relative;
   width: 200px;
   height: 200px;
@@ -47,4 +46,8 @@ li p {
 
 .light-look {
   background-color: lightblue;
+}
+
+.gradient-test {
+  background: linear-gradient(90deg, rgba(58,139,180,1) 0%, rgba(29,163,253,0.6881127450980392) 69%);
 }
