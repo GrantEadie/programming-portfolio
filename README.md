@@ -8,7 +8,7 @@
 
 ## Description
 
-_Title text with two descriptive headers followed by a circle image of the creator. Three boxes follow each with their own gradient color. The final paragraph is in its own bordered box._
+_Title text with two descriptive headers followed by a circle image of the creator. Three boxes follow each with their own gradient color. The final paragraph is in its own bordered box. LINK https://granteadie.github.io/programming-portfolio/_
 
 ## Setup/Installation Requirements
 
