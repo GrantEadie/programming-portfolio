@@ -3,6 +3,7 @@ ul {
   color: white;
   margin-top: 10px;
   font-size: 22px;
+  padding-left: 0px;
 }
 
 a {
@@ -42,4 +43,8 @@ li p {
   width: auto;
   height: 100%;
   margin-left: -23px;
+}
+
+.light-look {
+  background-color: lightblue;
 }
