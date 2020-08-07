@@ -65,7 +65,8 @@ li p {
   padding: 20px;
   border-width: 1px;
   box-sizing: border-box;
-  background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(194,148,233,0.6180847338935574) 100%);
+  background: rgb(238,174,180);
+  background: linear-gradient(160deg, rgba(238,174,180,0.9486169467787114) 0%, rgba(172,90,241,0.7441351540616247) 100%);
   margin-bottom: 300px;
 }
 
