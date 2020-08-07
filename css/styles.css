@@ -59,9 +59,17 @@ li p {
 }
 
 .box1 {
+  margin-top: 25px;
+  color: white;
   width: auto;
-  border: solid black;
+  padding: 20px;
   border-width: 1px;
-  margin-bottom: 10px;
   box-sizing: border-box;
+  background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(194,148,233,0.6180847338935574) 100%);
+  margin-bottom: 300px;
+}
+
+h3 {
+  padding: 10px;
+  font-size: large;
 }
