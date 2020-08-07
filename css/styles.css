@@ -25,8 +25,6 @@ li p {
   font-weight: bolder;
 }
 
-
-
 .photo-align {
   position: relative;
   width: 200px;
@@ -50,4 +48,16 @@ li p {
 
 .gradient-test {
   background: linear-gradient(90deg, rgba(58,139,180,1) 0%, rgba(29,163,253,0.6881127450980392) 69%);
+}
+
+.gradient-test1 {
+  background: linear-gradient(270deg, rgba(58,139,180,1) 0%, rgba(29,163,253,0.6881127450980392) 69%);
+}
+
+.box1 {
+  width: auto;
+  border: solid black;
+  border-width: 1px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
 }
