@@ -10,6 +10,10 @@ a {
   color: white;
 }
 
+li p a {
+  color:wheat;
+}
+
 a:hover {
   color: lightblue;
   text-decoration: none;
