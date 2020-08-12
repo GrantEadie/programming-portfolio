@@ -56,12 +56,12 @@ li p {
 }
 
 .gradient-test {
-  background: linear-gradient(90deg, rgba(58,139,180,1) 0%, rgba(29,163,253,0.6881127450980392) 69%);
+  background: linear-gradient(270deg, rgba(58,139,180,1) 0%, rgba(29,163,253,0.6881127450980392) 69%);
 }
 
 .gradient-test1 {
   background: rgb(76,89,240);
-  background: linear-gradient(270deg, rgba(76,89,240,1) 0%, rgba(90,120,241,0.7049194677871149) 100%);
+  background: linear-gradient(270deg, rgba(76,89,240,1) 0%, rgba(90,120,241,0.7049194677871149) 80%);
 }
 
 .box1 {
